@@ -2,11 +2,12 @@
 LEADS cluster
 ==================
 
-**Deprecated** 
+**The leads-cluster project is Deprecated** 
 
-Please use https://github.com/leads-project/leads_query-engine
+You will find the current implementation in the leads_query-engine repository: https://github.com/leads-project/leads_query-engine.
 
-**Deprecated**
+Introduction
+============
 
 The project goal is to provide an easy way to setup a cluster for FP7 EU LEADS project (http://www.leads-project.eu). 
 
